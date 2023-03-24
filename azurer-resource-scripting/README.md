@@ -25,11 +25,11 @@ To use the Terraform Azure scripts, follow these steps:
 - CLIENT_SECRET
 
 Run the following commands to initialize and apply the Terraform scripts:
-`terraform init`
-`terraform apply`
+- `terraform init`
+- `terraform apply`
 
 To destroy the resources, run:
-`terraform destroy`
+- `terraform destroy`
 
 ## Usage
 
