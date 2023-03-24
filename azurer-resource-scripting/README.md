@@ -1,4 +1,4 @@
-# Database-Shell-Script
+# Terraform Scripts for Azure
 
 ## About
 
